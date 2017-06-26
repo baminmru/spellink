@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\LinkChecker\linkchecker.exe" -q -r 3 --ignore-url="xmlrpc.php"  -Fxml/utf8/D:\bami\projects\Selenkov_2017\spellink\%2.err.xml   %1
+"C:\Program Files (x86)\LinkChecker\linkchecker.exe" -q -r 3 --ignore-url="xmlrpc.php"  -Fxml/utf8/D:\bami\projects\Selenkov_2017\spellink\WEB\%2.err.xml   %1
